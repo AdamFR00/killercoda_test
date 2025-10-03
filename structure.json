@@ -1,0 +1,11 @@
+{
+  "title": "My Learning Path",
+  "description": "A set of custom Killercoda scenarios.",
+  "courses": [
+    {
+      "course_id": "hello-webserver",
+      "title": "Hello World Web Server",
+      "description": "Run a Python web server on port 8080."
+    }
+  ]
+}
